@@ -1,6 +1,6 @@
 # Red Wine Quality Analysis Project
 
-Original dataset can be found [here]([https://lookerstudio.google.com/reporting/238d56a7-93c4-4718-867f-9a2ae590e7b0](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+Original dataset can be found [here](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
 ## Description
 This project involves the analysis of a red wine dataset to uncover insights into factors that affect the quality of red wine. The analysis is conducted through two main Jupyter notebooks: 
